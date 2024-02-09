@@ -1,4 +1,4 @@
-### Project Overview
+### Project Overview ([Online](https://maildroppa-task.vercel.app/))
 This project is a Next.js 14 application that serves as a basic e-commerce app for the Maildroppa task. It utilizes JSON files served through the API folder to render a list of products on the home page.
 
 ### Prerequisites
